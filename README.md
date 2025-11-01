@@ -17,7 +17,7 @@
 
 1.  **Clone** (Κλωνοποίηση) του Repository:
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/christosk8926/WorkingHourLog.git
     cd WorkingHoursProject
     ```
 
